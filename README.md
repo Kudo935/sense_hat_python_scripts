@@ -1,1 +1,2 @@
-# sense_hat_python_scripts
+# Sense Hat Python Lib
+A library of python scrpts for Raspberry Pi Sense Hat
